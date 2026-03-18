@@ -1,4 +1,4 @@
-# Learning Quantum Data Distribution via Chaotic Quantum Diffusion ModelUniversality of Many-body Projected Ensemble for Learning Quantum Data Distribution
+# Learning Quantum Data Distribution via Chaotic Quantum Diffusion Model
 
 ## Introduction
 
@@ -129,5 +129,5 @@ We welcome contributions to enhance the codebase. Please submit pull requests or
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the BSD 3-Clause Clear License. See the `LICENSE.txt` file for details.
 
